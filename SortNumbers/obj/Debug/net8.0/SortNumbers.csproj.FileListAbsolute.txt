@@ -1,0 +1,14 @@
+/Users/andresalonzo/RiderProjects/BootcampCalculator/SortNumbers/bin/Debug/net8.0/SortNumbers
+/Users/andresalonzo/RiderProjects/BootcampCalculator/SortNumbers/bin/Debug/net8.0/SortNumbers.deps.json
+/Users/andresalonzo/RiderProjects/BootcampCalculator/SortNumbers/bin/Debug/net8.0/SortNumbers.runtimeconfig.json
+/Users/andresalonzo/RiderProjects/BootcampCalculator/SortNumbers/bin/Debug/net8.0/SortNumbers.dll
+/Users/andresalonzo/RiderProjects/BootcampCalculator/SortNumbers/bin/Debug/net8.0/SortNumbers.pdb
+/Users/andresalonzo/RiderProjects/BootcampCalculator/SortNumbers/obj/Debug/net8.0/SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andresalonzo/RiderProjects/BootcampCalculator/SortNumbers/obj/Debug/net8.0/SortNumbers.AssemblyInfoInputs.cache
+/Users/andresalonzo/RiderProjects/BootcampCalculator/SortNumbers/obj/Debug/net8.0/SortNumbers.AssemblyInfo.cs
+/Users/andresalonzo/RiderProjects/BootcampCalculator/SortNumbers/obj/Debug/net8.0/SortNumbers.csproj.CoreCompileInputs.cache
+/Users/andresalonzo/RiderProjects/BootcampCalculator/SortNumbers/obj/Debug/net8.0/SortNumbers.dll
+/Users/andresalonzo/RiderProjects/BootcampCalculator/SortNumbers/obj/Debug/net8.0/refint/SortNumbers.dll
+/Users/andresalonzo/RiderProjects/BootcampCalculator/SortNumbers/obj/Debug/net8.0/SortNumbers.pdb
+/Users/andresalonzo/RiderProjects/BootcampCalculator/SortNumbers/obj/Debug/net8.0/SortNumbers.genruntimeconfig.cache
+/Users/andresalonzo/RiderProjects/BootcampCalculator/SortNumbers/obj/Debug/net8.0/ref/SortNumbers.dll

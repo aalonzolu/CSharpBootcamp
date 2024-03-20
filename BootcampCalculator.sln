@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{F3042414-9498-435B-83CC-E08939A99A8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCalculator", "TestCalculator\TestCalculator.csproj", "{51905E6A-C7C5-4190-A775-36E5FA794FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortNumbers", "SortNumbers\SortNumbers.csproj", "{304B6444-6524-472E-82E9-0516378C3D94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3042414-9498-435B-83CC-E08939A99A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3042414-9498-435B-83CC-E08939A99A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3042414-9498-435B-83CC-E08939A99A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3042414-9498-435B-83CC-E08939A99A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51905E6A-C7C5-4190-A775-36E5FA794FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51905E6A-C7C5-4190-A775-36E5FA794FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51905E6A-C7C5-4190-A775-36E5FA794FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51905E6A-C7C5-4190-A775-36E5FA794FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{304B6444-6524-472E-82E9-0516378C3D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{304B6444-6524-472E-82E9-0516378C3D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{304B6444-6524-472E-82E9-0516378C3D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{304B6444-6524-472E-82E9-0516378C3D94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

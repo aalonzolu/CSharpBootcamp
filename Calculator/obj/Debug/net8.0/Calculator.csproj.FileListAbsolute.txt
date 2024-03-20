@@ -1,0 +1,14 @@
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/bin/Debug/net8.0/Calculator
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/obj/Debug/net8.0/ref/Calculator.dll
