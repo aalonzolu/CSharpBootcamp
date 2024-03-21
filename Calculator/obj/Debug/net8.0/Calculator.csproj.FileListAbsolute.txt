@@ -12,3 +12,4 @@
 /Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/obj/Debug/net8.0/Calculator.pdb
 /Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
 /Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/obj/Debug/net8.0/ref/Calculator.dll
+/Users/andresalonzo/RiderProjects/BootcampCalculator/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json

@@ -6,7 +6,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
-        <RootNamespace>SortNumbers</RootNamespace>
+        <RootNamespace>InventorySystem</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>

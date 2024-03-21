@@ -1,4 +1,4 @@
-﻿namespace SortNumbers;
+﻿namespace L1SortNumbers;
 
 class Program
 {
