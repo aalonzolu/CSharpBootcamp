@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousFileReader", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreadedDataProcessing", "MultiThreadedDataProcessing\MultiThreadedDataProcessing.csproj", "{B5A32DC9-34C8-4DB9-BF80-3696E9D2BB97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORMConcepts", "ORMConcepts\ORMConcepts.csproj", "{059C3C0A-AF08-4203-A66B-0E804370DD85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{B5A32DC9-34C8-4DB9-BF80-3696E9D2BB97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5A32DC9-34C8-4DB9-BF80-3696E9D2BB97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5A32DC9-34C8-4DB9-BF80-3696E9D2BB97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{059C3C0A-AF08-4203-A66B-0E804370DD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{059C3C0A-AF08-4203-A66B-0E804370DD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{059C3C0A-AF08-4203-A66B-0E804370DD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{059C3C0A-AF08-4203-A66B-0E804370DD85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
