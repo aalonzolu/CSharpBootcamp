@@ -1,0 +1,6 @@
+@DockerBooksAPI_HostAddress = http://localhost:5282
+
+GET {{DockerBooksAPI_HostAddress}}/books
+Accept: application/json
+
+###
