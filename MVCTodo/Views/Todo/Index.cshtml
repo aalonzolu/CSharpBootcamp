@@ -1,0 +1,13 @@
+@{
+    ViewData["Title"] = "Todo List";
+}
+<h1>Todo List</h1>
+<div>
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li>@item.Title</li>
+        }
+    </ul>
+    <a asp-action="Create">Create</a>
+</div>
