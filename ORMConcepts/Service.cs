@@ -1,5 +1,5 @@
+using ORMConcepts.models;
 
-using Microsoft.EntityFrameworkCore;
 
 namespace ORMConcepts
 {
@@ -8,10 +8,7 @@ namespace ORMConcepts
        
         public void SeedDatabase()
         {
-            using (var db = new OrmdbContext())
-            {
-                // TODO
-            }
+            // TODO
         }
         
         public void TotalSalesPerProduct()
