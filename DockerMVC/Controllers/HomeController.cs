@@ -13,7 +13,7 @@ public class HomeController : Controller
         _logger = logger;
     }
     
-    private List<Book> fetchBooks()
+    private List<Book> FetchBooks()
     {
         String booksEndpoint = System.Environment.GetEnvironmentVariable("BOOKS_BASE_URL") ?? "http://localhost:8080";
         try
@@ -35,7 +35,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        ViewBag.Books = this.fetchBooks();
+        ViewBag.Books = this.FetchBooks();
         return View();
     }
 
