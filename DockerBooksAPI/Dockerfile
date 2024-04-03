@@ -1,6 +1,6 @@
 ﻿FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 WORKDIR /app
-EXPOSE 80
+EXPOSE 8080
 EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
@@ -8,7 +8,7 @@ WORKDIR /src
 COPY ["DockerBooksAPI.csproj", "./"]
 RUN dotnet restore "./DockerBooksAPI.csproj"
 COPY . .
-WORKDIR "/src/."
+WORKDIR "/src/"
 RUN dotnet build "DockerBooksAPI.csproj" -c Release -o /app/build
 
 FROM build AS publish

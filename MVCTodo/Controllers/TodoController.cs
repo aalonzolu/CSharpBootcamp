@@ -11,6 +11,8 @@ public class TodoController : Controller
 
     public IActionResult Index()
     {
+        ViewBag.Title = "Todo List";
+        ViewBag.Items = todoItems;
         return View(todoItems);
     }
     

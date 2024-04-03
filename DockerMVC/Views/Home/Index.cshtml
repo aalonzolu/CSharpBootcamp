@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Books List</h1>
+    <ul>
+        @foreach (Book book in ViewBag.Books)
+        {
+            <li>@book.ID: @book.Name published at @book.PublishDate</li>
+        }
+    </ul>
+    
+</div>

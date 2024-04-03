@@ -1,12 +1,13 @@
+@model List<TodoItem>
 @{
     ViewData["Title"] = "Todo List";
 }
 <h1>Todo List</h1>
 <div>
     <ul>
-        @foreach (var item in Model)
+        @foreach (var item in ViewBag.Items)
         {
-            <li>@item.Title</li>
+            <li>@item.ID: @item.Title</li>
         }
     </ul>
     <a asp-action="Create">Create</a>

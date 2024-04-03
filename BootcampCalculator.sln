@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookAPP", "BookAPP\BookAPP.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerBooksAPI", "DockerBooksAPI\DockerBooksAPI.csproj", "{EC31A51D-2D94-47B6-9840-1FF39DE95C32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerMVC", "DockerMVC\DockerMVC.csproj", "{A8083D5F-227C-4051-B8D9-ED573198071B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{EC31A51D-2D94-47B6-9840-1FF39DE95C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC31A51D-2D94-47B6-9840-1FF39DE95C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC31A51D-2D94-47B6-9840-1FF39DE95C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8083D5F-227C-4051-B8D9-ED573198071B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8083D5F-227C-4051-B8D9-ED573198071B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8083D5F-227C-4051-B8D9-ED573198071B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8083D5F-227C-4051-B8D9-ED573198071B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

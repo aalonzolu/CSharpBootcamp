@@ -51,7 +51,7 @@ namespace ORMConcepts
             var highValueCustomers = (db.Orders ?? throw new InvalidOperationException())
                 .GroupBy(o => o.CustomerId)
                 .Where(g => g.Sum(o => o.OrderDetails.Sum(od => od.Quantity * od.Product.Price)) > threshold)
-                .Select(g => g.Key);
+                .Select(g => g.Key).ToList();
 
             foreach (var customerId in highValueCustomers)
             {

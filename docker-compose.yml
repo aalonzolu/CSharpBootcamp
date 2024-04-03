@@ -1,0 +1,33 @@
+# docker compose for DockerBooksAPI and DockerMVC
+
+version: '3.7'
+
+services:
+  booksapi:
+    image: booksapi
+    build:
+      context: ./DockerBooksAPI
+      dockerfile: Dockerfile
+    ports:
+      - "5000:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    networks:
+      - booksnetwork
+
+  mvc:
+    image: mvc
+    build:
+      context: ./DockerMVC
+      dockerfile: Dockerfile
+    ports:
+      - "5001:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - BOOKS_BASE_URL=http://booksapi:8080
+    networks:
+      - booksnetwork
+
+networks:
+    booksnetwork:
+      name: book
